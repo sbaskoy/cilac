@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521919495727",
+    "project_id": "cilac-2a570",
+    "storage_bucket": "cilac-2a570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521919495727:android:582eef75d3fdffa3a650da",
+        "android_client_info": {
+          "package_name": "com.oryaz.cilac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521919495727-fjis9mesq39mtf559j08vilstl547kbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52Y2LCqzlD_pOdmvdLqbWjkOjJYnTfXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521919495727-fjis9mesq39mtf559j08vilstl547kbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
